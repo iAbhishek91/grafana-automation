@@ -21,7 +21,8 @@ This is a simple project which is automatically creates GRAFANA dashboard.
 - Run the script.
 
 ```sh
-node src/run.js
+chmod +700 ./run.sh
+./run.sh
 ```
 
 ## About Grafana API
